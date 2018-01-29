@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3007d9ccd860a05429fbc49635e1dc65
+timeCreated: 1504544406
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Posterama 1913
+  fontNames:
+  - Posterama 1913
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
